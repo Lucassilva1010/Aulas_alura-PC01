@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-Wille", "Aula-Wille\Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-Para", "Aula-Para\Aula-Para.csproj", "{69BA4161-AEBC-4E3E-8CFB-A2A245C8EDFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-ForEncadeado", "Aula-ForEncadeado\Aula-ForEncadeado.csproj", "{85ABBDB9-E5BD-45FA-B90F-679BE69335ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaDoWhile", "AulaDoWhile\AulaDoWhile.csproj", "{AAA93D5B-BA6A-4857-A87D-43B67A19C342}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{69BA4161-AEBC-4E3E-8CFB-A2A245C8EDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69BA4161-AEBC-4E3E-8CFB-A2A245C8EDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69BA4161-AEBC-4E3E-8CFB-A2A245C8EDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85ABBDB9-E5BD-45FA-B90F-679BE69335ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85ABBDB9-E5BD-45FA-B90F-679BE69335ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85ABBDB9-E5BD-45FA-B90F-679BE69335ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85ABBDB9-E5BD-45FA-B90F-679BE69335ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA93D5B-BA6A-4857-A87D-43B67A19C342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA93D5B-BA6A-4857-A87D-43B67A19C342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA93D5B-BA6A-4857-A87D-43B67A19C342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA93D5B-BA6A-4857-A87D-43B67A19C342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
